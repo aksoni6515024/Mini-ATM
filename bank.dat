@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Name1",
+    "pin": "1001",
+    "balance": 100.0
+  },
+  {
+    "name": "Name2",
+    "pin": "1002",
+    "balance": 100.0
+  },
+  {
+    "name": "Name3",
+    "pin": "1003",
+    "balance": 100.0
+  },
+  {
+    "name": "Name4",
+    "pin": "1004",
+    "balance": 100.0
+  },
+  {
+    "name": "Name5",
+    "pin": "1005",
+    "balance": 100.0
+  }
+]
